@@ -9,6 +9,6 @@
   "author": "Tahlil",
   "license": "ISC",
   "dependencies": {
-    "systeminformation": "^4.7.1"
+    "systeminformation": "^4.27.11"
   }
 }
